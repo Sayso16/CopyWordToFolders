@@ -82,3 +82,15 @@ Option 3: Copy the script directly
   
   Run python copy_doc.py in your terminal
 ```
+
+### **Code Structure**
+```text
+DocumentCopier Class
+├── __init__()          # Initialize GUI and variables
+├── create_widgets()    # Build all UI elements
+├── select_source_file() # Browse for Word document
+├── add_folders()        # Add individual folders
+├── add_subfolders()     # Add all subfolders from parent
+├── clear_folders()      # Clear the list
+├── remove_selected()    # Remove selected folders
+└── copy_document()      # Main copy operation
