@@ -58,3 +58,21 @@ cd CopyWordToFolders
 
 # Run the application
 python copy_doc.py
+
+Option 2: Download ZIP
+Go to the repository on GitHub
+
+Click "Code" → "Download ZIP"
+
+Extract the ZIP file
+
+Run python copy_doc.py
+
+Option 3: Copy the script directly
+If you just want the script without the repository:
+
+Copy the copy_doc.py file
+
+Save it anywhere on your computer
+
+Run python copy_doc.py in your terminal
