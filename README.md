@@ -10,28 +10,28 @@ A **Python GUI application** that allows you to copy a Word document to multiple
 
 ---
 
-## 🎯 **Purpose**
+## **Purpose**
 
 Have you ever needed to copy the same Word document into dozens of folders? Doing it manually is time-consuming and error-prone. This tool automates the process, saving you hours of repetitive work.
 
 ---
 
-## ✨ **Key Features**
+## **Key Features**
 
 | Feature | Description |
 |---------|-------------|
-| 🖥️ **User-Friendly GUI** | Clean, intuitive interface built with tkinter |
-| 📁 **Multiple Folder Selection** | Select multiple folders at once with Ctrl+Click |
-| 📄 **Word Document Support** | Works with both `.docx` and `.doc` files |
-| 🚀 **Batch Add Folders** | Add all subfolders from a parent directory in one click |
-| 🔄 **Smart Navigation** | Remembers the parent folder so you don't have to re-navigate |
-| 🎯 **Clean Display** | Shows only folder names, not full paths, for better readability |
-| ✅ **Error Handling** | Detailed status messages and error reporting |
-| 🔒 **No External Dependencies** | Uses only Python's built-in modules |
+| **User-Friendly GUI** | Clean, intuitive interface built with tkinter |
+| **Multiple Folder Selection** | Select multiple folders at once with Ctrl+Click |
+| **Word Document Support** | Works with both `.docx` and `.doc` files |
+| **Batch Add Folders** | Add all subfolders from a parent directory in one click |
+| **Smart Navigation** | Remembers the parent folder so you don't have to re-navigate |
+| **Clean Display** | Shows only folder names, not full paths, for better readability |
+| **Error Handling** | Detailed status messages and error reporting |
+| **No External Dependencies** | Uses only Python's built-in modules |
 
 ---
 
-## 📋 **Requirements**
+## **Requirements**
 
 - **Python** 3.6 or higher
 - **No external packages** (uses only built-in modules)
@@ -45,7 +45,7 @@ Have you ever needed to copy the same Word document into dozens of folders? Doin
 
 ---
 
-## 🚀 **Installation**
+##  **Installation**
 
 ### **Option 1: Clone from GitHub**
 
