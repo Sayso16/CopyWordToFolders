@@ -50,15 +50,18 @@ Have you ever needed to copy the same Word document into dozens of folders? Doin
 ### **Option 1: Clone from GitHub**
 
 ```bash
-# Clone the repository
-git clone https://github.com/yourusername/CopyWordToFolders.git
+  # Clone the repository
+  git clone https://github.com/yourusername/CopyWordToFolders.git
+  
+  # Navigate to the folder
+  cd CopyWordToFolders
+  
+  # Run the application
+  python copy_doc.py
+```bash
 
-# Navigate to the folder
-cd CopyWordToFolders
 
-# Run the application
-python copy_doc.py
-
+### **Option 2: Download ZIP**
 Option 2: Download ZIP
 Go to the repository on GitHub
 
