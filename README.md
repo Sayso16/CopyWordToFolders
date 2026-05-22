@@ -58,24 +58,27 @@ Have you ever needed to copy the same Word document into dozens of folders? Doin
   
   # Run the application
   python copy_doc.py
-```bash
+```
 
 
 ### **Option 2: Download ZIP**
-Option 2: Download ZIP
-Go to the repository on GitHub
-
-Click "Code" → "Download ZIP"
-
-Extract the ZIP file
-
-Run python copy_doc.py
+```bash
+  Go to the repository on GitHub
+  
+  Click "Code" → "Download ZIP"
+  
+  Extract the ZIP file
+  
+  Run python copy_doc.py
+```
 
 Option 3: Copy the script directly
-If you just want the script without the repository:
-
-Copy the copy_doc.py file
-
-Save it anywhere on your computer
-
-Run python copy_doc.py in your terminal
+```bash
+  If you just want the script without the repository:
+  
+  Copy the copy_doc.py file
+  
+  Save it anywhere on your computer
+  
+  Run python copy_doc.py in your terminal
+```
